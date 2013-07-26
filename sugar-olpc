@@ -1,0 +1,81 @@
+Sugar - www.sugarlabs.org:
+
+    Sugar is a learning platform focused towards children to provide quality education
+    and foster critical thinking by exposing them to technolgy.
+    Sugar runs on most computers, LIVE USBs, and XO laptops.
+    Activities are the main methods of education in sugar.
+    There are 3.5 million XO laptops, each with a version of sugar that runs 25 different
+    language with tens of thousands of activities each teaching a different lesson.
+
+OLPC - One Laptop Per Child - one.laptop.org:
+
+    Mission and Principals:
+        "We aim to provide each child with a rugged, low-cost, low-power, connected laptop.
+        To this end, we have designed hardware, content, and software for collaborative,
+        joyful, and self-empowering learning. With access to this type of tool, children
+        are engaged in thier own education, and learn, share, and create together.
+        They become connected to eah other, to the world and to a brighter future.
+
+        Provides OLPC XO laptops to children worldwide in 'deployments'
+
+
+    Activities:
+
+        Main method of educating students.  These 'activities' are comparable to 'apps'
+        on any mobile device (tablet, smartphone, etc..).
+        Developed with a singular purpose, activities fall into the categories of games,
+        tools, and organizational apps.  Each of these activities come together to provide
+        students with a unique computer interaction.  The documentation and source code for
+        developing activities is completely free and open source, all the activities are 
+        coded in python which is another completely free and open source programming
+        language.
+
+        Addtions:
+
+            We created a Sugar Activity QuickStart package that is available for download
+            from github at " https://github.com/FOSSRIT/SAQS-sugar-activity-quick-start- ".
+            We made this quickstart becuase the sugar activitiy tutorial is outdated.
+            
+        Activities produced from FOSS@RIT
+
+            SkyTime:A 2nd to 4th grade time telling game aimed to educate students about
+                    the correlation between analog clocks and digital time.  Created in
+                    the Humanitarian Free and Open Source Cource offered at the 
+                    Rochester Institute of Technology. Further developed during the 
+                    National Day of Civic Hacking. Accepted and presented in 
+                    Washington, DC. as a "White House Champion of Change" project.
+                    Currently localized in three different languages, with more on the 
+                    way.
+
+            Lemonade Stand: A 4th grade and up game, aimed to educate students how to run 
+                            small buisness. This includes making optimal change, preparing 
+                            inventory, buying items, upgrading tools, and generating 
+                            profit. Curently, we have updated the entire user interface
+                            by reducing information overload, using new images, and adding
+                            new features. Features include better visual feedback, 
+                            localization in 3 different languages, different stands, 
+                            and the implementation of an Open Badges Achievement System.
+                            
+
+            Sash: An activity designed to hold and host our Open Badges Achievement System.
+                  It displays the badges that the user has earned from each activity that 
+                  has badges imported.  Once in Sash, badges may be sorted and ordered by
+                  name, date, or activity.
+
+
+    Datastore - "wiki.laptop.org/go/Sugar.datastore.datastore" :
+        
+        The Sugar Datastore is the way activity data gets saved to the Journal activity in
+        Sugar.  The Journal activity stores the activity sessions in an ordered list where
+        the user can resume thier activity from the point where the left off.  This saving
+        process consists of creating a datastore object and storing various metadata into 
+        that object.
+
+            Badges: Badges are made by checking to see if an activity has made a datastore
+                    object, (if not make one) and saving specific metadata to that object.
+                    Conditionals then check against that saved data to see if an 
+                    achievement has been compeleted, and thus awards a badge. Once awarded
+                    the badge shows up in Sash for the user to view and sort.
+
+
+
