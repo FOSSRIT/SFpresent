@@ -1,0 +1,106 @@
+Lemonade Stand outline
+Fernando Ellis
+Ian Furry
+Ryan Stush
+David Wilson
+
+Bootstrapping:
+   -Installing fedora on our laptops
+   -Creating accounts on sites
+       -fedora
+       -github
+       -foss.rit.edu
+       -Meetup
+   -Installing Sugar on our laptops
+   -Installing lemonade stand
+
+Open Badges:
+   -Macarthur Foundation
+   -HASTAC
+   -Mozilla
+   -Recognition of education outside the classroom
+
+One Laptop Per Child:
+   -MIT media Lab
+       -Nicholas Negroponte
+        -Walter Bender
+   -UN movement
+   -Deployments in Peru, Uruguay
+   -Sugar Labs
+
+Playtesting 1st round:
+   -Text-based ui--
+   -Not seeable in bright light
+   -Large amounts of money make events inconsequential
+   -No negative events
+   -Unrealistically selling all your lemonade
+   -More Readable logs
+
+Planning improvements
+   -Miyamoto's Pyramid
+   -Github tickets
+   -Trimester structure
+   -Leads
+
+Youth Playtesting
+   -Youth playtesting were in grades 4,5,6
+   -Youth didn't understand how to play at first
+   -Buying in bulk was difficult
+   -Youth didn't split up change with a greedy algorithm
+
+Assigning tickets
+   -First Trimester dues
+       -Stush: Lemonade Stand showing up in journal of XO laptops
+       -Wilson: Ui and Log cleanup
+       -Furry: Events and Log Updates
+       -Ellis: Researching School Server Functionality
+
+   -Second Trimester dues
+       -Stush: Barebones activity / Beginnings of sash
+       -Wilson: Tutorial / setting difficulty / other food stands
+       -Furry: Negative effects / Changing Recipes
+       -Ellis: Gettext / Translatable framework
+
+   -Third Trimester dues
+       -Stush: Finishing Sash with badges capability
+       -Wilson: Beginning screen with language and food option
+       -Furry: Finishing Recipes / Slides
+       -Ellis: Research Outline / Paper beginnings
+
+Final Playtest
+   -Youth from STEM camp
+   -Future ideas for updates to the game
+   -What added features worked well, what didn't work
+   -Introduction of Badges
+
+Sash
+   -Local functionality due to internet infrequency
+   -Badge display and organization potential
+   -Possible future school server connectivity
+
+Findings
+   -Gamification of achievement recognition and education
+       -Open badges effect on children
+       -Youth reaction to learning through games
+   -Connectivity of different software systems
+       -Open source software: how we could do it
+       -Education of youth: why we did it
+
+##############################################################################
+
+Slides:
+Probably 12-16 slides, preferably done in HTML or Hovercraft, because we’re cool hacker people
+
+Topics needed to be covered:
+    -Open Badges
+    -OLPC
+    -Playtesting 1st round - us playing lemonade stand
+    -Planning improvements
+    -First, Second and Third Trimester Dues
+    -Youth Playtesting - Lemonade day
+    -Sash
+    -Findings / Future Possibilities
+
+Topics not so needed to be covered:
+    -Bootstrapping
+    -Final Playtest - STEM camp
