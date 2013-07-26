@@ -10,9 +10,12 @@ URLs:
         -Community Group: https://groups.google.com/forum/#!forum/openbadges
         -Developer Group: https://groups.google.com/forum/#!forum/openbadges-dev
         -Working paper: https://wiki.mozilla.org/images/5/59/OpenBadges-Working-Paper_012312.pdf
-        -
+            -The paper speaks of the importance of badges in a diverging digital age and what everyone can do to aid in the effort to expand Open Badges or how to benefit from the recognition and fulfillment the entire system has to offer. The report speaks of four examples of learners, showing a wide variety of ways badges can benefit people, organizations, and communities. Wether one struggling to apply their extracurricular successes in high school, looking to show one's skills outside of a college degree that has little to nothing to offer, planning on moving and needs a way to carry over their community of recognition and support with them, or in need of representing themselves for a new job in a workforce that has greatly changed since they entered it. The Badge framework allows for multiple levels of badges to exist, with more respectable badges only awarded through an application system to maintin their professionality. Lower level badges can represent one's interest or entry-level status in a field in a way that wouldn't otherwise be able to be represented in a profressional standard.
 4. http://www.hastac.org/about
+    -Smart Reddit
 5. http://www.macfound.org/about/
+    -Education, Human Rights, technological literacy, efficiency of cities, fund raising and investing company humanitarian style
 6. http://www.macfound.org/press/press-releases/better-futures-2-million-americans-through-open-badges/
+    -Article about how bill clinton supprts open badges and why he believes in the difference it can make for the 2 million americans they plan to be using the system by 2016.
 
 
