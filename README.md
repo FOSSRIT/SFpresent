@@ -1,4 +1,15 @@
-SFpresent
-=========
+SFpresenet
+==========
+Data and Information, collection and storage repository.
+Please include links to every site.
+Example entry:
 
-Here is a repo for the collection of information for the development of our Flock and Surf presentation. Put stuff here.
+file.txt
+    -Here is a file that explains ____ 
+    -http://LINK.com
+
+
+Index of files with explanations:
+
+
+
