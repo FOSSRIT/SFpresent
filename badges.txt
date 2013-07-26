@@ -1,0 +1,18 @@
+Mozilla's Open Badges
+URLs: 
+1. https://backpack.openbadges.org/
+    -The Backpack URL where your badges are shown. This can be uploaded to or featured on a series of websites to demonstrate one's level of skill/education in various fields. Each badge has its information on display; Issuer details include the issuer Name, URL of the organization, and the name of the organization; Badge details include the badge name, a description of what the badge represents, and a link to the criteria one needed to accomplish to earn the badge; this information can be found for each badge by clicking on it.
+2. http://openbadges.org/about/
+    -Basic info about how badges work and what they represent. Badges can be earned from many sources, including, but not limited to job training, online learning, and volunteer programs. Links to one's backpack can be posted on an inreasing number of social media sites, allowing for users to represent their accomplishments to future applications to jobs, colleges, user groups, and think tanks, to name a few. Being Open source, any organization can create, issue, and verify digital badges, and any user can can earn, manage, and display their badges on an ever-expanding web. Backed by NASA, the Smithsonian, Intel, the Girl Scouts and more.
+3. https://wiki.mozilla.org/Badges
+    -Info to get involved in the badges community:
+        -Open Badges community calls 12pm eastern time - https://openbadges.etherpad.mozilla.org/openbadges-community? - all members share their progress and encourage all to ask questions and discuss topics. Being open source software, all are encouraged to join in the use, refinement, and growth of Open Badges.
+        -Community Group: https://groups.google.com/forum/#!forum/openbadges
+        -Developer Group: https://groups.google.com/forum/#!forum/openbadges-dev
+        -Working paper: https://wiki.mozilla.org/images/5/59/OpenBadges-Working-Paper_012312.pdf
+        -
+4. http://www.hastac.org/about
+5. http://www.macfound.org/about/
+6. http://www.macfound.org/press/press-releases/better-futures-2-million-americans-through-open-badges/
+
+
