@@ -29,7 +29,7 @@ URLs:
             -Other
 
 4. http://www.hastac.org/about
-    -Smart Reddit
+    -HASTAC was founded in 2002 by Cathy N. Davidson and David Theo Goldberg under the belief that whether or not the current structure of education is outdated, as techonology increases humanity gradually becomes more digital, which in turn creates a rift between traditional learning and the representation of acquired skills. To counter this, they stress an open source approach to defining a new, sustainable, and flexible approach to learning  application and recognition to match the evolving field of education. This approach is based on the input of all 9150 members of HASTAC. The information, events, and strategies on the site are posted by, commented on, and rated by a society of scholars dedicated to dissolve the border between the humanities and technology. The members of HASTAC hail from a variety of disciplines and degree levels, allowing for a broad plethora of viewpoints to consider as many points of view per subject considered as possible.  
 5. http://www.macfound.org/about/
     -Education, Human Rights, technological literacy, efficiency of cities, fund raising and investing company humanitarian style
 6. http://www.macfound.org/press/press-releases/better-futures-2-million-americans-through-open-badges/
