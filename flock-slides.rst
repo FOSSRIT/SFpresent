@@ -1,6 +1,7 @@
 :title: XO Laptop Lemonade Stand slides re-structured-text
 :author: Fernando Ellis, Ian Furry, Ryan Stush, David Wilson
 :description: Flock presentation slides
+<<<<<<< Updated upstream
 :keywords: presentation, XO Badges, Lemonade, impress.js
 :css: flock-slides.css
 
@@ -220,6 +221,9 @@ School servers
 
     - install file configurations
 
+=======
+:keywords: presentation, XO Badges, Lemonade
+>>>>>>> Stashed changes
 
 ----
 
