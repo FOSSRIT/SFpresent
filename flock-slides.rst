@@ -39,7 +39,7 @@ Outline
         - Stable school server
         - Pushing badges to backpack
         - Additional challenges and badges
-Acknowledgements
+- Acknowledgements
 
 
 Summer Undergraduate Research Fellowship
@@ -47,7 +47,7 @@ Summer Undergraduate Research Fellowship
 A program funded by the newly rennovated MAGIC Center at RIT.
 
 Proposal:
----------
+.........
 1.To implement Mozilla Open Badges onto the OLPC XO Laptop
 
 2.To make implementation simple and easy for future users
@@ -76,7 +76,7 @@ Sugarlabs is the company responsible for developing the Sugar Learning Platform 
 SugarLabs_
 
 Sugar:
-^^^^^^
+.........
 The Sugar Learning Platform is a free and open-source software focused on youth education.
 
 .. image:: images/sugar.png
@@ -88,11 +88,11 @@ The Sugar Learning Platform is a free and open-source software focused on youth 
 One Laptop Per Child
 ====================
 Mission:
-^^^^^^^^
+..............
 To provide each child with a rugged, low-cost, low-power, connected laptop.
 
 UN Support:
------------
+^^^^^^^^^^^^^^
 In January 2008, the UN Development Programme partnered with OLPC to deliver XO's and learning resources to schools in the world's least developed countries.
 OLPC_
 
@@ -430,6 +430,6 @@ Acknowledgements
 
 ----
 
-Questions
+Questions?
 ==============
-????????????
+
