@@ -6,6 +6,22 @@
 
 ----
 
+<<<<<<< HEAD
+
+Summer Undergraduate Research Fellowship
+========================================
+What:
+^^^^^
+A program funded by the newly rennovated MAGIC Center at RIT that funds students to research and develop approved projects.
+
+Proposal:
+---------
+1.To implement Mozilla Open Badges onto the OLPC XO laptop
+
+2.To make implementation simple and easy for furture users
+
+3.To explore the benefits of gamification in education
+=======
 Mozilla Open Badges and XO Laptops
 ===================================
 
@@ -40,23 +56,12 @@ Outline
         - Pushing badges to backpack
         - Additional challenges and badges
 Acknowledgements
-
-
-Summer Undergraduate Research Fellowship
-========================================
-A program funded by the newly rennovated MAGIC Center at RIT.
-
-Proposal:
----------
-1.To implement Mozilla Open Badges onto the OLPC XO Laptop
-
-2.To make implementation simple and easy for future users
-
-3.To explore the benefits of gamification in education
+>>>>>>> 8ddc294dc55527d5b6cfc78416fb1a362609e888
 
 
 ----
 
+<<<<<<< HEAD
 FOSSRIT
 ========
 An applied research facility dedicated to free and open source software and open web technologies.
@@ -118,10 +123,7 @@ Peru, Uruguay, Haiti, Ghana, Rwanda, Etheopia, India, Mongolia, and many others.
 .. image:: images/OLPCMAP.png
    :width: 900px
    :height: 400px
-
-
-----
-
+=======
 Mission Statement
 ==================
 
@@ -433,3 +435,4 @@ Acknowledgements
 Questions
 ==============
 ????????????
+>>>>>>> 8ddc294dc55527d5b6cfc78416fb1a362609e888
