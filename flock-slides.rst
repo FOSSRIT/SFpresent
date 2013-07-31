@@ -406,16 +406,18 @@ Localization
 How to get translations to work
 =================================
 
-#. $python setup.py genpot
-#. Generates a po/ directory with a <bundle_name>.pot file (rename to <bundle_name.po)
-#. Edit the .po file and add your translations
-#. $python setup.py dist_xo
-#. Generates the locale/ directory where it stores the new .mo file
-#. Add these next two lines of code at the beginning of the program
-#. import gettext
-#. lang = gettext.translation(<bundle_id>, 'locale/', languages=[<name_of_mo_file>])
-#. _ = lang.ugettext
-#. Every word you want translated, change it to _(<string>)
+.. code:: python
+
+    #. $python setup.py genpot
+    #. Generates a po/ directory with a <bundle_name>.pot file (rename to <bundle_name.po)
+    #. Edit the .po file and add your translations
+    #. $python setup.py dist_xo
+    #. Generates the locale/ directory where it stores the new .mo file
+    #. Add these next two lines of code at the beginning of the program
+    #. import gettext
+    #. lang = gettext.translation(<bundle_id>, 'locale/', languages=[<name_of_mo_file>])
+    #. _ = lang.ugettext
+    #. Every word you want translated, change it to _(<string>)
 
 ----
 
