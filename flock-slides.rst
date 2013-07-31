@@ -6,8 +6,53 @@
 
 ----
 
-Mozilla Open Standards
-=========================
+Mozilla Open Badges and XO Laptops
+===================================
+
+Fernando Ellis, Ian Furry, Ryan Stush, David Wilson
+FOSS@RIT SURF
+
+----
+
+Outline
+=========
+
+- Mission Statement
+    - OLPC
+        -Deployments
+    - Badges
+        - Mozilla Open Badges
+            - HASTAC
+            - MacArthur Foundation
+            - Anatomy of a badge
+            - Backpack
+    - Activities
+        - Lemonade Stand
+        - Sash
+    - Challenges/Limitations
+        - Datastore
+        - School server
+    - Localization
+        - Gettext
+        - Stand customization (ice cream, etc..)
+    - Next Time...
+        - Stable school server
+        - Pushing badges to backpack
+        - Additional challenges and badges
+Acknowledgements
+
+
+----
+
+Mission Statement
+==================
+
+- To connect the Mozilla open badges infrastructure to XO Laptops to supply all children using the laptop with access to the skills and learning recognition provided by the program.
+
+----
+
+Mozilla Open Badges
+======================
 
 - Badges are a digital representation of skills learned outside the classroom
 
@@ -77,7 +122,7 @@ Anatomy of a Badge
 
 ----
 
-school servers
+School servers
 =================
 
 - Potential Benefits
@@ -294,4 +339,19 @@ How to get translations to work
 #. _ = lang.ugettext
 #. Every word you want translated, change it to _(<string>)
 
+----
 
+Acknowledgements
+===================
+
+- SURF at RIT
+- FOSS@RIT
+- Remy Decausemaker
+- Professor Stephen Jacobs
+- Ronald McNair Program
+
+----
+
+Questions
+==============
+????????????
