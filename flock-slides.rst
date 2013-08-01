@@ -3,6 +3,8 @@
 :description: Flock presentation slides
 :keywords: presentation, XO Badges, Lemonade, impress.js
 :css: flock-slides.css
+:skip-help: true
+:data-transition-duration: 500
 
 ----
 
@@ -14,12 +16,14 @@ FOSS@RIT SURF
 
 ----
 
+:data-x: r1200
+
 Outline
 =========
 
 - Mission Statement
     - OLPC
-        -Deployments
+        - Deployments
     - Badges
         - Mozilla Open Badges
             - HASTAC
@@ -43,20 +47,24 @@ Outline
 
 ----
 
+:data-y: r-1200
+
 Summer Undergraduate Research Fellowship
 ========================================
 A program funded by the newly rennovated MAGIC Center at RIT.
 
 Proposal:
 .........
-1.To implement Mozilla Open Badges onto the OLPC XO Laptop
+1. To implement Mozilla Open Badges onto the OLPC XO Laptop
 
-2.To make implementation simple and easy for future users
+2. To make implementation simple and easy for future users
 
-3.To explore the benefits of gamification in education
+3. To explore the benefits of gamification in education
 
 
 ----
+
+:data-x: r-1200
 
 FOSSRIT
 ========
@@ -70,6 +78,8 @@ FOSSRIT_
 .. _FOSSRIT: http://foss.rit.edu/
 
 ----
+
+:data-x: r-1200
 
 SugarLabs
 =========
@@ -85,6 +95,8 @@ The Sugar Learning Platform is a free and open-source software focused on youth 
 .. _SugarLabs: http://wiki.sugarlabs.org/go/Welcome_to_the_Sugar_Labs_wiki
 
 ----
+
+:data-y: r1200
 
 One Laptop Per Child
 ====================
@@ -105,11 +117,15 @@ OLPC_
 
 ----
 
+:data-y: r1200
+
 Distribution:
 =============
 OLPC XO latops are distributed in two distinct ways.
-1. Deployments: Ordered by governments or schools
-2. Give One Get One Program: Public Support
+
+#. Deployments: Ordered by governments or schools
+
+#. Give One Get One Program: Public Support
 
 Currently, OLPC doesn't directly sell XO laptops to users but are known to hold fundraisers where they may be purchsed.
 
@@ -123,12 +139,16 @@ Peru, Uruguay, Haiti, Ghana, Rwanda, Etheopia, India, Mongolia, and many others.
 
 ----
 
+:data-x: r1200
+
 Mission Statement
 ==================
 
 - To connect the Mozilla open badges infrastructure to XO Laptops to supply all children using the laptop with access to the skills and learning recognition provided by the program.
 
 ----
+
+:data-x: r1200
 
 Mozilla Open Badges
 ======================
@@ -149,6 +169,8 @@ Mozilla Open Badges
 
 ----
 
+:data-x: r1200
+
 HASTAC & MacArthur Foundation
 ==============================
 
@@ -166,11 +188,13 @@ HASTAC & MacArthur Foundation
 
 - Differences:
     
-    -MacArthur Foundation is an international foundation that raises money to invest in programs for human rights, international justice, peace and security, etc.
+    - MacArthur Foundation is an international foundation that raises money to invest in programs for human rights, international justice, peace and security, etc.
 
-    -HASTAC is essentially an open-sourced attempt at having the people of all backgounds work together to supplement education with technology or search for ways to interconnect the two
+    - HASTAC is essentially an open-sourced attempt at having the people of all backgounds work together to supplement education with technology or search for ways to interconnect the two
 
 ----
+
+:data-y: r-1200
 
 Anatomy of a Badge 
 ====================
@@ -195,11 +219,15 @@ Anatomy of a Badge
 
 ----
 
+:data-y: r-1200
+
 .. image:: images/backpack-screenshot.png
    :width: 786px
    :height: 432px
 
 ----
+
+:data-y: r-1200
 
 School servers
 =================
@@ -224,9 +252,9 @@ Difficulties
 
     - install file configurations
 
-:keywords: presentation, XO Badges, Lemonade
+----
 
----
+:data-x: r-1200
 
 Playtesting
 =============
@@ -240,13 +268,18 @@ and that some of games freatures where a bit too easy.
 
 ----
 
+:data-x: r-1200
+
 A New UI
 ==========
 
 #. Old interface was too clunky
+
 #. Poor readability and usability
 
 ----
+
+:data-x: r-1200
 
 .. image:: images/old-ui.png
     :width: 600px
@@ -258,27 +291,37 @@ A New UI
 
 ----
 
+:data-x: r-1200
+
 .. image:: images/new-ui-profit.png
     :width: 800px
     :height: 600px
 
 ----
 
+:data-y: r1200
+
 New Selections
 =================
 
 #. Language selection
+
 #. Menu screen
+
 #. Difficulty selection
 
 
 ----
+
+:data-y: r1200
 
 .. image:: images/new-ui-selection.png
     :width: 800px
     :height: 600px
 
 ----
+
+:data-y: r1200
 
 Balancing problems
 =====================
@@ -296,11 +339,15 @@ had to tone down the difficulty.
 
 ----
 
+:data-y: r1200
+
 .. image:: images/lemonade-trillion.png
     :width: 600px
     :height: 375px
 
 ----
+
+:data-x: r1200
 
 Balancing Fixes
 ==================
@@ -314,37 +361,51 @@ Results equaled planed scaled value based on dificulty selection.
 
 ----
 
+:data-x: r1200
+
 Reworking Random Events
 ==========================
 
-Originaly
+Originally
+..........
 - All the events were in one array and chosen with a random number generator
 - If random number went beyond array then there was no event.
 - Events only had static effects.
 
 Now
+.........
 - Events seperated into two Arrays, one for positve events and one for negative.
 - Events chosen with a weighted system that adjusts to difficulty
 - Some of the rare events scale effect to progress of the player.
 
 ----
 
+:data-x: r1200
+
 Sash
 ========
 
 #. Activity for displaying the user's badges
+
 #. Reads datastore object for badge information
+
 #. Generates a badge from information received from DS object
+
 #. Displays badge(s) onto the window
+
 #. Tooltips provide useful information about the badges
 
 ----
+
+:data-x: r1200
 
 .. image:: images/sash-ui.png
     :width: 800px
     :height: 600px
 
 ----
+
+:data-x: r1200
 
 How does Sash work?
 =======================
@@ -358,6 +419,8 @@ How does Sash work?
 
 ----
 
+:data-y: r-1200
+
 Customization
 =================
 
@@ -366,6 +429,8 @@ Customization
 #. Users are able to load in their own sets of images to generate that new stand
 
 ----
+
+:data-y: r-1200
 
 .. image:: images/icecream-shop.png
     :width: 600px
@@ -377,6 +442,8 @@ Customization
 
 ----
 
+:data-y: r-1200
+
 Ingredients
 ===============
 
@@ -386,6 +453,8 @@ like it would be more fun if there was wider verity of ingredients to use.
 This required the way ingredients are called to be made more flexable.
 
 ----
+
+:data-y: r-1200
 
 Recipes
 ============
@@ -398,6 +467,8 @@ recipes, the code is in the game but currently unused.
 
 ----
 
+:data-y: r-1200
+
 Localization
 ================
 
@@ -408,23 +479,28 @@ Localization
 
 ----
 
+:data-x: r-1200
+
 How to get translations to work
 =================================
 
 .. code:: python
 
-    #. $python setup.py genpot
-    #. Generates a po/ directory with a <bundle_name>.pot file (rename to <bundle_name.po)
-    #. Edit the .po file and add your translations
-    #. $python setup.py dist_xo
-    #. Generates the locale/ directory where it stores the new .mo file
-    #. Add these next two lines of code at the beginning of the program
-    #. import gettext
-    #. lang = gettext.translation(<bundle_id>, 'locale/', languages=[<name_of_mo_file>])
-    #. _ = lang.ugettext
-    #. Every word you want translated, change it to _(<string>)
+    # $python setup.py genpot
+    # Generates a po/ directory with <bundle_name>.pot file 
+    # (rename to <bundle_name.po>)
+    # Edit the .po file and add your translations
+    # $python setup.py dist_xo
+    # Generates the locale/ directory where it stores the new .mo file
+    # Add these next two lines of code at the beginning of the program
+     import gettext
+     lang = gettext.translation(<bundle_id>, 'locale/', languages=[<name_of_mo_file>])
+     _ = lang.ugettext
+    # Every word you want translated, change it to _(<string>)
 
 ----
+
+:data-x: r-1200
 
 Acknowledgements
 ===================
@@ -436,6 +512,8 @@ Acknowledgements
 - Ronald McNair Program
 
 ----
+
+:data-x: r-1200
 
 Questions?
 ==============
