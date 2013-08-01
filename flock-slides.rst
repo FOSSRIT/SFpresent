@@ -1,7 +1,6 @@
 :title: XO Laptop Lemonade Stand slides re-structured-text
 :author: Fernando Ellis, Ian Furry, Ryan Stush, David Wilson
 :description: Flock presentation slides
-<<<<<<< Updated upstream
 :keywords: presentation, XO Badges, Lemonade, impress.js
 :css: flock-slides.css
 
@@ -42,6 +41,7 @@ Outline
         - Additional challenges and badges
 - Acknowledgements
 
+----
 
 Summer Undergraduate Research Fellowship
 ========================================
@@ -204,15 +204,18 @@ Anatomy of a Badge
 School servers
 =================
 
-- Potential Benefits
+Potential Benefits
+...
 
     - Teachers could create badges easily accessed by all children in the school
-    - Would an ideal world have internet everywhere? 
+    - Would an ideal world have internet everywhere?
 
-    - Effecient means of uploading/downloading badges 
+    - Effecient means of uploading/downloading badges
 
-- Difficulties
-    
+
+Difficulties
+...
+
     - Not all XO deployments have internet
 
     - RIT's automatic de-authentication
@@ -221,11 +224,9 @@ School servers
 
     - install file configurations
 
-=======
 :keywords: presentation, XO Badges, Lemonade
->>>>>>> Stashed changes
 
-----
+---
 
 Playtesting
 =============
