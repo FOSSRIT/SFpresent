@@ -20,3 +20,8 @@ Index of files with explanations:
 3.sugar-olpc
     -A quick reference what sugar and it's includes are plus what we have done this coop
     -see links in file
+
+Divvying up the paper
+======================
+
+
