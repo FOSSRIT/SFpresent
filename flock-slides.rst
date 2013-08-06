@@ -502,6 +502,19 @@ How to get translations to work
 
 :data-x: r-1200
 
+.. image:: images/spanish-shop.png
+    :width: 600px
+    :height: 375px
+
+.. image:: images/spanish-stand.png
+    :width: 600px
+    :height: 375px
+
+----
+
+
+:data-x: r-1200
+
 Acknowledgements
 ===================
 
